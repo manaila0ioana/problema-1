@@ -7,3 +7,4 @@ In plus, am instalat biblioteca pandas (pip install pandas) si biblioteca matplo
 De asemenea, pentru partea grafica a programului am importat fisierul data.csv.
 La finalul acestor actiuni, se apasa butonul de "RUN", iar graficele cu toate datele necesare vor aparea unule dupa altele.
 Referinte: link-urile trimise pe Teams, la files; https://www.w3schools.com/python/default.asp; https://www.pythoncheatsheet.org/; https://chat.openai.com/share/f082cca1-545c-4c1e-9b78-bb9260b6e2cb
+GitHUB: https://github.com/manaila0ioana
